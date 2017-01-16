@@ -1,7 +1,4 @@
 name: Linear
 description: Linear template for Jekyll
-baseurl: '/Linear-Jekyll-Theme'
-
-url: "http://smartwave.github.io"
 
 paginate: 10
